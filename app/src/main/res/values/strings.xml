@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StringOperations</string>
+    <string name="enter_string">Enter string</string>
+    <string name="output">Output</string>
+    <string name="length">Length</string>
+    <string name="is_numeric">Is Numeric ?</string>
+    <string name="append">Append</string>
+    <string name="reverse">Reverse</string>
+    <string name="clear">Clear</string>
+</resources>
