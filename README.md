@@ -24,7 +24,7 @@ A simple Android application that performs basic operations on user-input string
 
 1. Clone this repository:
 
-   https://github.com/pinkyagrawal245/StringOperationsAndroid.git
+   https://github.com/pinkyagrawal245/StringOperations
 
 2. Open the project in Android Studio.
 
